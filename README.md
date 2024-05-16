@@ -158,16 +158,15 @@
 
 ## 10. 通过ADB停用GSF【重要步骤！】
 
-1. 准备一台PC电脑（win系统）和数据线。[button color="info" icon="command" url="https://toalan.com/archives/29/" type=""]MAC系统下这个[/button]
-2. 下载`搞机工具箱V9.10`到电脑[button color="success" icon="download-cloud" url="https://www.123pan.com/s/x9tA-A8UW3.html" type="round"]（国内）123网盘下载[/button]/[button color="success" icon="download-cloud" url="https://1drv.ms/u/s!Atp0UM8FnZB_j5F7eGRR0eFMb5WJxA?e=5tKufr" type="round"]（国外）OneDrive网盘下载[/button]
-3. 手机端操作：
+1. 准备一台PC电脑（win系统）和数据线。[MAC系统下这个](https://toalan.com/archives/29/)
+2. 下载`搞机工具箱V9.10`到电脑（国内）[123网盘下载](https://www.123pan.com/s/x9tA-A8UW3.html) （国外）[OneDrive网盘下载](https://1drv.ms/u/s!Atp0UM8FnZB_j5F7eGRR0eFMb5WJxA?e=5tKufr)
 	1. 打开 `开发者模式`（设置-关于手机-连点7次HarmonyOS版本-输入密码)
 	2. 开启 `USB调试` 和 `"仅充电"模式下允许ADB调试` （设置-系统和更新-开发者人员选项）
 	3. 手机通过数据线到电脑，允许与电脑链接（不弹窗可忽略）
 	4. 下滑通知栏，点击 `正在通过USB充电`,选择 `传输文件`模式
 4. 电脑端操作:
 	1. 解压压缩包，双击打开 `搞机工具箱v9.exe` 
-	2. 如果一切正常，打开这个界面。（如果你连接有问题， 界面都不会弹出。怎么解决链接问题看弹窗提示帮助或者[点击这里跳转](https://www.bilibili.com/read/cv16541940/)或下载华为手机助手）![搞机工具箱](https://cos.toalan.com/alan_image/36ce0364e4494fa680b759b8f9f14330.png)
+	2. 如果一切正常，打开这个界面。（如果你连接有问题， 界面都不会弹出。怎么解决链接问题看弹窗提示帮助或者[点击这里跳转](https://www.bilibili.com/read/cv16541940/)或下载华为手机助手）![搞机工具箱](https://cos.toalan.com/alan_image/c24261369dfa4bfe9b82050a9aa5e8cd.png)
 5. 注意！下面的操作是很关键的，请仔细阅读。<font color="#ff0000">！！！重要！！！请阅读完剩余步骤，理解后再操作。</font>
 	1. 点击左侧ADB终端，输入命令：`adb shell pm disable-user --user 0 com.google.android.gsf ` 注意！不要回车执行操作！只是粘贴上去好准备。
 	2. 手机安装第八步的 `8.play商店` 。

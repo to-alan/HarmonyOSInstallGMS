@@ -47,7 +47,7 @@
 # ✔下载链接
 ---
 -（国内）[123网盘下载](https://www.123pan.com/s/x9tA-DTSW3.html)（免登陆流量不足，登陆即可免费下载）
-- [（国外）OneDrive网盘下载](https://1drv.ms/u/s!Atp0UM8FnZB_j5hrU1XlDwkkxcTDRQ?e=NRma4m)
+-（国外）OneDrive网盘下载](https://1drv.ms/u/s!Atp0UM8FnZB_j5hrU1XlDwkkxcTDRQ?e=NRma4m)
 
 文件结构：
 ```

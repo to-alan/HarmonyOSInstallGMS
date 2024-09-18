@@ -9,6 +9,12 @@
 不远程？💬有问题？该系列教程官方交流群你值得拥有。Q群：`552158932` 
 
 
+If you happen to come across this GitHub repository, we warmly welcome your visit. However, we advise you to check your system version before proceeding. If your phone was released before May 15, 2019, which you can verify on websites such as GSMArena, you can install native Google GMS support like a regular Android device, and therefore, you won't need this tutorial.
+
+This tutorial for installing a native GMS solution ('原生谷歌三件套') is only applicable to Huawei phones running Harmony OS, which includes almost all Huawei phones intended for sale in Mainland China. It is not for Huawei phones running on EMUI or any Huawei tablets, except for the Huawei MatePad Pro 10.8 2019 version sold in Mainland China. However, you may still use the MicroG+Play solution listed in the table below.
+
+
+
 
 **华为/荣耀 鸿蒙系统如何安装谷歌框架三件套？恭喜你找对了教程，呕心沥血3个月，终于做出如此完美的教程。**
 
@@ -325,8 +331,9 @@ Check that Google Play is enabled on your device and that you're using an up-to-
 
 ### **因服务受限应用（目前无法解决）：**
 - Google Pay（谷歌钱包）
-- Android Auto（安卓汽车APP，有方法用，我不作解释）
+- Android Auto（安卓汽车APP，有方法用，我不作解释）（海外版EMUI系统可以使用）
 - Gcam（谷歌相机）
+- McDonald's (全球版)
 - 更多发现中。。。
 
 ### **因谷歌位置服务受限应用（建议使用[Gbox](https://gboxlab.com/)）：**
@@ -342,6 +349,7 @@ Check that Google Play is enabled on your device and that you're using an up-to-
 - Tiktok（具体方法后续会更新教程）
 - 领英（需要全局网络或国外SIM卡）
 - NetFix
+- Google Map 点评（需关闭 +86开头的手机卡）
 - 更多发现中。。。
 
 ---

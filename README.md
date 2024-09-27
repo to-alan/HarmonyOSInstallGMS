@@ -1,4 +1,4 @@
-# 近期网站加了防盗链，建议大家去https://toalan.com/archives/36/看原教程，近期会修复
+# 近期网站加了防盗链，建议大家去https://toalan.com/archives/36/ 看原教程，近期会修复
 
 
 

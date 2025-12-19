@@ -1,5 +1,4 @@
-# GitHub不经常更新，建议大家去https://toalan.com/archives/165/ 看原教程（已解决登录掉谷歌账号问题）
-
+# GitHub不经常更新，建议大家去https://toalan.com/archives/36/ 看原教程
 
 ![](https://cos.toalan.com/alan_image/70213dbdab22486697a4a137a9e47176.png)
 # 🎈前言（不读前言，会错失很多重要信息）

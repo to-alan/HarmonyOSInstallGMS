@@ -5,9 +5,9 @@
 ---
 
 <font color="#86cc00">👑高效远程安装，享受一对一问题解答（远程需要电脑）</font>
-- Telegram：[Click Me](https://t.me/AlanChen365)
+- Telegram：[Click Me](https://t.me/AlanChen365_Bot)
 ---
-不远程？💬有问题？该系列教程官方交流群你值得拥有。Q群：`552158932` 
+不远程？💬有问题？该系列教程官方交流群你值得拥有。Tg 群：[Alan's Blog 公开交流群](https://t.me/AlanBlogGroup)
 
 
 If you happen to come across this GitHub repository, we warmly welcome your visit. However, we advise you to check your system version before proceeding. If your phone was released before May 15, 2019, which you can verify on websites such as GSMArena, you can install native Google GMS support like a regular Android device, and therefore, you won't need this tutorial.
